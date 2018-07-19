@@ -1,1 +1,1 @@
-worker: node bot.js
+worker: node facebook_bot.js
