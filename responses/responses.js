@@ -19,5 +19,5 @@ module.exports = {
 	      }*/
 	    ]
 	}, 
-	helloMessage: "Hello! I\'m a RapidTraduction bot!\nI can help you translate sentences to English or French ^_^.\nDon't worry about spelling errors ;)\n For help type 'help' ",
+	helloMessage: "Hello! I\'m a RapidTraduction bot!\nI can translate sentences to English or French ^_^.\nDon't worry about spelling errors ;)\n For help type 'help' ",
 	help: "Please send something similar to:\n\"translate i want to speak French or traduit je veux parler Français\"",}
